@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727966980969",
+    "project_id": "app-daea2",
+    "storage_bucket": "app-daea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727966980969:android:4cadfb057362f50e833bf8",
+        "android_client_info": {
+          "package_name": "com.example.amazon_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727966980969-gfl97h7dm18fg6gc3cnberd0d59le6ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDdjLRdMe2vgwuIBtVPhhfemeGOqLS18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727966980969-gfl97h7dm18fg6gc3cnberd0d59le6ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
